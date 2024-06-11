@@ -1,2 +1,2 @@
-printf("HI")
+printf("Hi")
 
